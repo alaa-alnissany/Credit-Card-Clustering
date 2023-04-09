@@ -1,2 +1,2 @@
 # Credit-Card-Clustering
-SHAI Project
+SHAI Project (primitive version)
